@@ -1,0 +1,6 @@
+Your name: ULV
+Your computer's name: ULVIRTUQLBOX
+Pick a username:User1
+Choose a password: @12345678910
+Confirm your password: @12345678910
+X require my password to log in
